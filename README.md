@@ -1,6 +1,6 @@
 # academic
 
-### A Jekyll theme for academia
+### A Jekyll theme for academia 
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 
