@@ -2,4 +2,4 @@
 layout: publications
 title: "Publications"
 ---
-Police Misconduct in the US
+Police Misconduct in the US 
